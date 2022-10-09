@@ -1,0 +1,13 @@
+Material discutido na aula 06 Curso de Python - Curso em Video.
+
+int -> Números inteiros, Ex (7 / 5 / 8).
+
+float -> Números reais ou de ponto flutuante, Ex (7.3 / 0.076 / -15.223 / 7.0).
+
+bool -> Só aceita dois dados "True" ou "False", Representa um "Verdadeiro" ou "Falso", 
+Exemplo: caso dado "x" seja (True / Verdadeiro) apresentar "y" dado.
+
+str -> Tudo que está entre aspas simples ou dupla, exemplo "Olá" / 'Olá' / ''.
+
+
+
