@@ -7,7 +7,7 @@ float -> Números reais ou de ponto flutuante, Ex (7.3 / 0.076 / -15.223 / 7.0).
 bool -> Só aceita dois dados "True" ou "False", Representa um "Verdadeiro" ou "Falso", 
 Exemplo: caso dado "x" seja (True / Verdadeiro) apresentar "y" dado.
 
-str -> Tudo que está entre aspas simples ou dupla, exemplo "Olá" / 'Olá' / ''.
+str -> Tudo que está entre aspas simples ou dupla, exemplo "Olá" / 'Olá' / '  '.
 
 
 
