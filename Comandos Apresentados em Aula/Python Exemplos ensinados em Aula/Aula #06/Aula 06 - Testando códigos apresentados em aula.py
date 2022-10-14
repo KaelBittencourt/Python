@@ -1,5 +1,3 @@
-from re import S
-
 
 n1=int(input('Digite um Número:'))
 n2=int(input('Digite mais um Número:'))
