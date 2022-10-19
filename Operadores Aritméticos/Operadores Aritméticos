@@ -1,0 +1,13 @@
+
+Quais são os operadores aritméticos do Python?
+E qual sua ordem de precedência dentro de expresões matemáticas?
+Como funcionam os operadores de adição, subtração, disão, exponenciação e quociente na linguagem Python.
+
+
++  adição
+-  subtração
+*  Multiplicação
+/  Divisão
+** Potência
+// Divisão Inteira
+%  Resto da Divisão
